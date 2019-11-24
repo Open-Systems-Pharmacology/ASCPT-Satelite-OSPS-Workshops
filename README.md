@@ -38,11 +38,11 @@ As use-cases for above learnings, we will develop PBPK models for small molecule
 
 ### Day 1
 
-![Agenda Day 1](https://github.com/Open-Systems-Pharmacology/ASCPT-Satelite-OSPS-Workshops/blob/master/Agenda Day 1.png)
+![Agenda Day 1](https://github.com/Open-Systems-Pharmacology/ASCPT-Satelite-OSPS-Workshops/blob/master/Agenda%20Day%201.png)
 
 ### Day 2
 
-![Agenda Day 2](https://github.com/Open-Systems-Pharmacology/ASCPT-Satelite-OSPS-Workshops/blob/master/Agenda Day 2.png)
+![Agenda Day 2](https://github.com/Open-Systems-Pharmacology/ASCPT-Satelite-OSPS-Workshops/blob/master/Agenda%20Day%202.png)
 
 ## PREPARATION
 
