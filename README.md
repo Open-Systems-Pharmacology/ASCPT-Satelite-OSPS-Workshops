@@ -4,7 +4,9 @@
 
 esqLABS, in collaboration with the University of Houston, College of Pharmacy, is running two hands-on **PK-Sim® & MoBi®** workshops on **PBPK and PBPK-based QSP** on **Monday and Tuesday 16th and 17th of March 2020** (pre ASCPT) at the **University of Houston** (Department of Pharmacological and Pharmaceutical Sciences, Health Building (HB) 2, Rm 7049, 4849 Calhoun Rd, Houston, TX 77204-5037). 
 
-The workshop covers the **basics of PBPK** and concepts and application of **combining PK-Sim, MoBi and R** to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. Within the two workshops, you will learn how to:
+The workshops cover the **basics of PBPK** and concepts and application of **combining PK-Sim, MoBi and R** to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. 
+
+Within the two workshops, you will learn how to:
 
 **Workshop 1 / Day 1:**
 - [x] Build a PBPK model in PK-Sim and compare to observed data
