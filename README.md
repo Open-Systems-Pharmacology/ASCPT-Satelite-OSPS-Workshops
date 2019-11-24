@@ -46,7 +46,9 @@ Registration includes coffee- and lunch breaks.
 
 ## AGENDA
 
-As use-cases for above learnings, we will develop PBPK models for small molecules and biologics and a PB-QSP model for antibody-drug conjugates (ADC) treatment of tumor growth. In detail (preliminary agenda):
+The use-cases within the workshops will be based on published examples. We will develop PBPK models for small molecules for DDI and pediatric populations and PBPK models for biologics (antibody-drug conjugates (AsDC)), which we develop into a PB-QSP model for treatment of tumor growth.  
+
+The two workshop days are scheduled as follows:
 
 ### Day 1
 
