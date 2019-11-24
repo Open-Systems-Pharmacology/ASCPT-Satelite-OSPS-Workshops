@@ -26,10 +26,10 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 ## LOCATION
 
-Department of Pharmacological and Pharmaceutical Sciences \n
-Health Building (HB) 2, 
-4849 Calhoun Rd, Houston, 
-TX 77204-5037 
+Department of Pharmacological and Pharmaceutical Sciences  
+Health Building (HB) 2,  
+4849 Calhoun Rd, Houston,   
+TX 77204-5037  
 
 ## REGISTRATION
 
