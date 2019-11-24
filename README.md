@@ -37,7 +37,7 @@ You can register for each workshop separately or for both at a reduced price.
 
 You can Register on Eventbrite:
 - [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for DAY 1 only.
-- [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for Day 2 only.
+- [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for DAY 2 only.
 - [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for BOTH days.
 
 Each workshop day is currently restricted to 15 external participants.
@@ -46,7 +46,9 @@ Registration includes coffee- and lunch breaks.
 
 ## AGENDA
 
-The use-cases within the workshops will be based on published examples. We will develop PBPK models for small molecules for DDI and pediatric populations and PBPK models for biologics (antibody-drug conjugates (AsDC)), which we develop into a PB-QSP model for treatment of tumor growth.  
+The use-cases within the workshops will be based on published examples. 
+
+We will develop PBPK models for small molecules for DDI and pediatric populations and PBPK models for biologics (antibody-drug conjugates (AsDC)), which we develop into a PB-QSP model for treatment of tumor growth.  
 
 The two workshop days are scheduled as follows:
 
