@@ -36,9 +36,9 @@ TX 77204-5037
 You can register for each workshop separately or for both at a reduced price.
 
 You can Register on Eventbrite:
-- Register for [Day 1 only](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496).
-- Register for [Day 2 only](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496).
-- Register for [both days](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496).
+- [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for DAY 1 only.
+- [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for Day 2 only.
+- [Register](https://www.eventbrite.com/e/2-day-pk-sim-mobi-workshop-on-pbpk-and-pbpk-based-qsp-tickets-54161831496) for BOTH days.
 
 Each workshop day is currently restricted to 15 external participants.
 
