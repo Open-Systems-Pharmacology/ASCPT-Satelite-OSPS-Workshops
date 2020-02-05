@@ -14,7 +14,7 @@ Within the two workshops, you will learn how to:
 - [x] Learn how to consider age-dependency in drug PK in PK-Sim (**Pediatric Analyses**)
 - [x] Conduct population simulations in PK-Sim and MoBi
 
-**Workshop 2 /Day 2:**
+**Workshop 2 / Day 2:**
 - [x] Integrate **mechanism-based pharmacodynamics** in MoBi
 - [x] Conduct **parameter identifications** in PK-Sim and MoBi
 - [x] Simulate and analyze your PBPK-QSP model in **R**
